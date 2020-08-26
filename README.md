@@ -1,5 +1,2 @@
 # kevisu-test
-test project
-Test \n 
-TEST
-one more time
+Hello there, this is kevin's work and personal test repo.

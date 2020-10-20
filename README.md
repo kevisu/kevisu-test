@@ -8,7 +8,7 @@ We will be experimenting with GitHub PR workflow here.
 * Testing changes once again. Oct 20th 2020
 
 
-## Another section
+## Another section for testing
 * Another section that is added for testing
 * foo
 * bar
